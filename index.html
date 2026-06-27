@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="card">
+
+    <div class="search-box">
+      <input id="cityInput" type="text" placeholder="Enter city name...">
+      <button id="btn">🔍</button>
+    </div>
+
+    <div id="weatherEmoji" class="big-emoji">⛅</div>
+
+    <h1 id="temperature">--°C</h1>
+
+    <h2 id="cityName">Search a city</h2>
+
+    <p id="description"></p>
+
+    <div class="stats">
+      <div class="stat">
+        <p class="stat-icon">💧</p>
+        <p id="humidity" class="stat-value">--%</p>
+        <p class="stat-label">Humidity</p>
+      </div>
+      <div class="divider"></div>
+      <div class="stat">
+        <p class="stat-icon">💨</p>
+        <p id="wind" class="stat-value">-- km/h</p>
+        <p class="stat-label">Wind Speed</p>
+      </div>
+    </div>
+
+    <p id="error"></p>
+
+  </div>
+
+</body>
+
+<script src="script.js"></script>
+
+</html>
