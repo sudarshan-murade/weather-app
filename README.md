@@ -58,3 +58,5 @@ FY IT Student — learning web development step by step.
 
 ## Screenshot
 ![Weather App Screenshot](screenshot.png)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/38738091-50b2-439b-a274-551a1db211c6" />
