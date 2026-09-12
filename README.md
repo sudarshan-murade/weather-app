@@ -1,5 +1,6 @@
 # 🌤️ Weather App
-![Uploading image.png…]()
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/296ae2d7-5291-49d4-b5f9-70da081fc2a0" />
+
 
 
 A simple weather app built using HTML, CSS, and JavaScript as part of my FY IT learning journey.
