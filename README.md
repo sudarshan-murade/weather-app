@@ -1,4 +1,6 @@
 # 🌤️ Weather App
+![Uploading image.png…]()
+
 
 A simple weather app built using HTML, CSS, and JavaScript as part of my FY IT learning journey.
 
